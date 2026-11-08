@@ -1,3 +1,16 @@
+"""
+Ejercicio 01. Control de inventario
+Una tienda necesita identificar los productos que tienen pocas existencias.
+1. Crear una lista con los nombres de cinco productos y otra con sus cantidades disponibles,
+respetando el mismo orden.
+2. Mostrar cada producto junto con su cantidad.
+3. Identificar los productos con menos de cinco unidades y calcular el total de unidades
+registradas.
+4. Mostrar un mensaje si ningún producto tiene stock bajo.
+Datos iniciales sugeridos: productos = ["Arroz", "Azúcar", "Aceite", "Leche", "Fideos"]; cantidades
+= [8, 3, 12, 2, 6].
+"""
+
 # Lista inicial de productos
 list_prdt = ["Chocolate", "Leche", "Azucar", "Paneton", "Mantequilla"]
 list_cant = [20, 50, 4, 10, 20]
